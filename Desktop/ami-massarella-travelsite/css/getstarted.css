@@ -1,0 +1,57 @@
+
+  
+  form {
+    margin-top: -4rem;
+    margin-left: 4rem;
+  }
+  
+  .div__h1--Form {
+       background-color: #FEFAF5;
+       text-align: left;
+    
+       height: 40rem;
+       width: 90rem;
+       color: #335576;
+    
+   }
+
+   .div__h1--paragraph {
+    margin-top: -5.5rem;
+   }
+
+   .div__h1--Form-items {
+    list-style-type: none;
+    margin-left: 4rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    
+   }
+
+   .div__h1--item-Hawaii, .div__h1--item-Iceland, .div__h1--item-Greece {
+margin-right: 2rem;
+   }
+
+   .div__h1--Form-Submit {
+    position: relative;
+    top: -4rem;
+    left: 40rem;
+    margin-left: 4rem;
+  
+   }
+
+input {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+
+   
+.label__contactinfo, .label__message {
+    margin-left: 4rem;
+}
+
+ 
+   

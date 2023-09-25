@@ -1,0 +1,164 @@
+body {
+    font-family: Verdana;
+ }
+ 
+ .nav {
+ position: fixed;
+ top:0;
+ z-index: 10000;
+ text-decoration: none;
+ vertical-align: middle;
+ background: #FFFFFF;
+ width: 100%;
+ 
+ 
+   
+  
+   }
+ 
+   .nav__items  {
+     
+   
+ 
+     display: inline-block;
+     display: flex;  
+     
+ 
+     margin: 0 15rem 0 0;
+     list-style-type: none;
+     margin-right: 0;
+     text-decoration: none;
+    
+ 
+   }
+ 
+   .nav__item--Home, .nav__item--Greece, .nav__item--Hawaii, .nav__item--Iceland { 
+     padding: 10px;
+     text-decoration: none;
+     font-size: 1rem;
+     color: black;
+    
+ }
+ 
+ 
+ .nav__items--right {
+     margin: 0rem 0rem 0 50rem;
+     padding-top: 1rem;
+ }
+ 
+ .nav__item--TravelSite {
+     font-size: 1.2rem;
+     padding: 10px;
+     margin: 0 15rem 0 0;
+     text-decoration: none;
+     padding-top: 1rem;
+     margin: 0 0 0 3rem;
+     color: #335576;
+     font-weight: 600;
+ }
+ 
+ a {
+     text-decoration: none;
+   }
+ 
+ .nav__item--TravelSite:hover {
+     text-decoration: underline;
+     color: #DB7A4E;
+   }
+ 
+   .nav__item--Home:hover {
+     text-decoration: underline;
+     color: #DB7A4E;
+   }
+ 
+   .nav__item--Greece:hover {
+     text-decoration: underline;
+     color: #DB7A4E;
+   }
+ 
+   .nav__item--Hawaii:hover {
+     text-decoration: underline;  
+     color: #DB7A4E;
+   }
+ 
+   .nav__item--Iceland:hover {
+     text-decoration: underline;
+     color: #DB7A4E;
+   }
+ 
+   
+ 
+   
+ 
+ body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+ }
+ 
+ footer {
+    position: relative;
+    display: flex;
+     flex-direction: row;
+    margin-top: auto;
+     /*bottom: 0px;*/
+     background-color: #FEFAF5;
+     width: 90rem;
+     /*height: 100%;*/
+     color: #335576;
+     margin: 0 0 0 0;
+     /*bottom: 0px;
+     /*position: relative;
+     /*left: -5rem;*/
+     /*margin: 6rem;
+     vertical-align: top;*/
+     /*clear: both;
+     /*position: relative;
+     height: 200px;
+     margin-top: -200px;*/
+
+ }
+ 
+   .footer__div--Contact, .footer__div--hours--Monday, .footer__div--hours--Saturday, .footer__div--hours--Sunday, .footer__div--Social {
+     margin: 0 3rem 0 3rem;
+   }
+ 
+   .footer__div--hours--Saturday {
+     position: relative;
+     top: 4rem;
+    
+   }
+ 
+   .footer__div--hours--Sunday {
+     position: relative;
+     top: 3.9rem !important;
+   }
+ 
+   .footer__div--Contact-Header, .footer__div--Social-Header, .footer__div--Hours-Header {
+     font-size: 1.5rem;
+   }
+ 
+   .footer__div--hours--Sunday {
+     position: relative;
+     top: 2.9rem;
+   }
+ 
+   .footer__subtitle {
+     color: #DB7A4E;
+     font-size: 0.8rem;
+   }
+ 
+   .footer__div--Socials {
+     display: flex;
+     display: inline-block;
+     flex-direction: row;
+ 
+   }
+ 
+ .footer__div--Facebook, .footer__div--Instagram, .footer__div--Twitter {
+   margin: 0 2rem 0 0;
+   position: relative;
+   top: 1rem;
+ }
+ 

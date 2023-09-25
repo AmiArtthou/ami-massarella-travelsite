@@ -1,0 +1,108 @@
+
+
+
+
+  .h1--Destination {
+    position: relative;
+    color: white;
+    font-size: 4.5rem;
+    top: 9rem;
+    left: 2rem;
+  }
+
+
+.card {
+    position: relative;
+    margin-left: 8rem;
+    margin-right: 5rem;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    display: flex;
+    flex-direction: row;
+ /*justify-content: center;*/
+/*align-items: center;
+justify-content: center;
+width: 100%;*/
+   
+   
+}
+
+  .card__Friday, .card__Saturday, .card__Sunday {
+    background-color: white;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+   text-align: center;
+   justify-content: center;
+   width: 100%;
+   margin: 0rem 1.2rem 0rem 1.2rem;
+   border-radius: 5px;
+   border: 1px solid rgba(0, 0, 0, .2);
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+   width: 20rem;
+   height: 30rem;
+
+ 
+ 
+    
+  }
+
+  .card__activity--Header, .card__activity--1, .card__activity--2, .card__activity--3, .card__activity--4 {
+    position: relative;
+    list-style-type: none;
+    margin: 0rem 3.3rem 1rem 1rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    
+  }
+
+  .card__activity--1, .card__activity--2, .card__activity--3, .card__activity--4 {
+    background-color: #FEFAF5;
+    width: 14rem;
+  }
+
+  .card__activity--Header {
+    border-bottom: 3px solid black;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+
+
+
+
+
+
+
+  
+ 
+   
+   
+   
+  
+   
+ 
+   
+  
+   
+   
+
+   
+     
+    
+     
+    
+   
+   
+     
+   
+  
+      
+       
+    
+       
+   
+     
+
+   
+   
+   
